@@ -1,0 +1,1 @@
+- [regions.json](regions.json) - данные о регионах Казахстана в формате JSON.

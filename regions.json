@@ -1,0 +1,464 @@
+[
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-AKM",
+    "full_name": {
+      "kazakh": {
+        "latin": "Aqmola oblysy",
+        "cyrillic": "Ақмола облысы"
+      },
+      "russian": {
+        "cyrillic": "Акмолинская область",
+        "translit": {
+          "bgn_pcgn_1947": "Akmolinskaya Oblast'"
+        }
+      },
+      "english": "Akmola Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Kókshetaý",
+        "cyrillic": "Көкшетау"
+      },
+      "russian": {
+        "cyrillic": "Кокшетау"
+      },
+      "english": "Kokshetau"
+    },
+    "total_area": {
+      "sq_qm": 146219
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-AKT",
+    "full_name": {
+      "kazakh": {
+        "latin": "Aqtóbe oblysy",
+        "cyrillic": "Ақтөбе облысы"
+      },
+      "russian": {
+        "cyrillic": "Актюбинская область",
+        "translit": {
+          "bgn_pcgn_1947": "Aktyubinskaya Oblast'"
+        }
+      },
+      "english": "Aktobe Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Aqtóbe",
+        "cyrillic": "Ақтөбе"
+      },
+      "russian": {
+        "cyrillic": "Актобе"
+      },
+      "english": "Aktobe"
+    },
+    "total_area": {
+      "sq_qm": 300629
+    },
+    "time_zone": {
+      "utc": "UTC+05:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-ALM",
+    "full_name": {
+      "kazakh": {
+        "latin": "Almaty oblysy",
+        "cyrillic": "Алматы облысы"
+      },
+      "russian": {
+        "cyrillic": "Алматинская область",
+        "translit": {
+          "bgn_pcgn_1947": "Almatinskaya Oblast'"
+        }
+      },
+      "english": "Almaty Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Taldyqorǵan",
+        "cyrillic": "Талдықорған"
+      },
+      "russian": {
+        "cyrillic": "Талдыкорган"
+      },
+      "english": "Taldykorgan"
+    },
+    "total_area": {
+      "sq_qm": 223924
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-ATY",
+    "full_name": {
+      "kazakh": {
+        "latin": "Atyraý oblysy",
+        "cyrillic": "Атырау облысы"
+      },
+      "russian": {
+        "cyrillic": "Атырауская область",
+        "translit": {
+          "bgn_pcgn_1947": "Atyrauskaya Oblast'"
+        }
+      },
+      "english": "Atyrau Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Atyraý",
+        "cyrillic": "Атырау"
+      },
+      "russian": {
+        "cyrillic": "Атырау"
+      },
+      "english": "Atyrau"
+    },
+    "total_area": {
+      "sq_qm": 118631
+    },
+    "time_zone": {
+      "utc": "UTC+05:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-VOS",
+    "full_name": {
+      "kazakh": {
+        "latin": "Shyǵys Qazaqstan oblysy",
+        "cyrillic": "Шығыс Қазақстан облысы"
+      },
+      "russian": {
+        "cyrillic": "Восточно-Казахстанская область",
+        "translit": {
+          "bgn_pcgn_1947": "Vostochno-Kazakhstanskaya Oblast'"
+        }
+      },
+      "english": "East Kazakhstan Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "О́skemen",
+        "cyrillic": "Өскемен"
+      },
+      "russian": {
+        "cyrillic": "Усть-Каменогорск"
+      },
+      "english": "Oskemen"
+    },
+    "total_area": {
+      "sq_qm": 283226
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-ZHA",
+    "full_name": {
+      "kazakh": {
+        "latin": "Jambyl oblysy",
+        "cyrillic": "Жамбыл облысы"
+      },
+      "russian": {
+        "cyrillic": "Жамбылская область",
+        "translit": {
+          "bgn_pcgn_1947": "Zhambylskaya Oblast'"
+        }
+      },
+      "english": "Jambyl Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Taraz",
+        "cyrillic": "Тараз"
+      },
+      "russian": {
+        "cyrillic": "Тараз"
+      },
+      "english": "Taraz"
+    },
+    "total_area": {
+      "sq_qm": 144264
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-KAR",
+    "full_name": {
+      "kazakh": {
+        "latin": "Qaraǵandy oblysy",
+        "cyrillic": "Қарағанды облысы"
+      },
+      "russian": {
+        "cyrillic": "Карагандинская область",
+        "translit": {
+          "bgn_pcgn_1947": "Karagandinskaya Oblast'"
+        }
+      },
+      "english": "Karaganda Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Qaraǵandy",
+        "cyrillic": "Қарағанды"
+      },
+      "russian": {
+        "cyrillic": "Караганда"
+      },
+      "english": "Karaganda"
+    },
+    "total_area": {
+      "sq_qm": 427982
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-KUS",
+    "full_name": {
+      "kazakh": {
+        "latin": "Qostanaı oblysy",
+        "cyrillic": "Қостанай облысы"
+      },
+      "russian": {
+        "cyrillic": "Костанайская область",
+        "translit": {
+          "bgn_pcgn_1947": "Kostanayskaya Oblast'"
+        }
+      },
+      "english": "Kostanay Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Qostanaı",
+        "cyrillic": "Қостанай"
+      },
+      "russian": {
+        "cyrillic": "Костанай"
+      },
+      "english": "Kostanay"
+    },
+    "total_area": {
+      "sq_qm": 196001
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-KZY",
+    "full_name": {
+      "kazakh": {
+        "latin": "Qyzylorda oblysy",
+        "cyrillic": "Қызылорда облысы"
+      },
+      "russian": {
+        "cyrillic": "Кызылординская область",
+        "translit": {
+          "bgn_pcgn_1947": "Kyzylordinskaya Oblast'"
+        }
+      },
+      "english": "Kyzylorda Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Qyzylorda",
+        "cyrillic": "Қызылорда"
+      },
+      "russian": {
+        "cyrillic": "Кызылорда"
+      },
+      "english": "Kyzylorda"
+    },
+    "total_area": {
+      "sq_qm": 226019
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-MAN",
+    "full_name": {
+      "kazakh": {
+        "latin": "Mańǵystaý oblysy",
+        "cyrillic": "Маңғыстау облысы"
+      },
+      "russian": {
+        "cyrillic": "Мангыстауская область",
+        "translit": {
+          "bgn_pcgn_1947": "Mangystauskaya Oblast'"
+        }
+      },
+      "english": "Mangystau Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Aqtaý",
+        "cyrillic": "Ақтау"
+      },
+      "russian": {
+        "cyrillic": "Актау"
+      },
+      "english": "Aktau"
+    },
+    "total_area": {
+      "sq_qm": 165642
+    },
+    "time_zone": {
+      "utc": "UTC+05:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-SEV",
+    "full_name": {
+      "kazakh": {
+        "latin": "Soltústik Qazaqstan oblysy",
+        "cyrillic": "Солтүстік Қазақстан облысы"
+      },
+      "russian": {
+        "cyrillic": "Северо-Казахстанская область",
+        "translit": {
+          "bgn_pcgn_1947": "Severo-Kazakhstanskaya Oblast'"
+        }
+      },
+      "english": "North Kazakhstan Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Petropavl",
+        "cyrillic": "Петропавл"
+      },
+      "russian": {
+        "cyrillic": "Петропавловск"
+      },
+      "english": "Petropavl"
+    },
+    "total_area": {
+      "sq_qm": 97993
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-PAV",
+    "full_name": {
+      "kazakh": {
+        "latin": "Pavlodar oblysy",
+        "cyrillic": "Павлодар облысы"
+      },
+      "russian": {
+        "cyrillic": "Павлодарская область",
+        "translit": {
+          "bgn_pcgn_1947": "Pavlodarskaya Oblast'"
+        }
+      },
+      "english": "Pavlodar Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Pavlodar",
+        "cyrillic": "Павлодар"
+      },
+      "russian": {
+        "cyrillic": "Павлодар"
+      },
+      "english": "Pavlodar"
+    },
+    "total_area": {
+      "sq_qm": 124800
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-YUZ",
+    "full_name": {
+      "kazakh": {
+        "latin": "Túrkistan oblysy",
+        "cyrillic": "Түркістан облысы"
+      },
+      "russian": {
+        "cyrillic": "Туркестанская область",
+        "translit": {
+          "bgn_pcgn_1947": "Turkestanskaya Oblast'"
+        }
+      },
+      "english": "Turkistan Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Túrkistan",
+        "cyrillic": "Түркістан"
+      },
+      "russian": {
+        "cyrillic": "Туркестан"
+      },
+      "english": "Turkistan"
+    },
+    "total_area": {
+      "sq_qm": 117249
+    },
+    "time_zone": {
+      "utc": "UTC+06:00"
+    }
+  },
+  {
+    "type": "region",
+    "iso_3166_2_code": "KZ-ZAP",
+    "full_name": {
+      "kazakh": {
+        "latin": "Batys Qazaqstan oblysy",
+        "cyrillic": "Батыс Қазақстан облысы"
+      },
+      "russian": {
+        "cyrillic": "Западно-Казахстанская область",
+        "translit": {
+          "bgn_pcgn_1947": "Zapadno-Kazakhstanskaya Oblast'"
+        }
+      },
+      "english": "West Kazakhstan Region"
+    },
+    "capital": {
+      "kazakh": {
+        "latin": "Oral",
+        "cyrillic": "Орал"
+      },
+      "russian": {
+        "cyrillic": "Уральск"
+      },
+      "english": "Oral"
+    },
+    "total_area": {
+      "sq_qm": 151339
+    },
+    "time_zone": {
+      "utc": "UTC+05:00"
+    }
+  }
+]
